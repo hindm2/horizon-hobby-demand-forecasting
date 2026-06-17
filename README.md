@@ -72,6 +72,40 @@ We estimated future component demand using:
 
 New Part Demand = Improved Attach Rate × New Parent Forecast
 
+## Results
+
+Our analysis produced a more structured and data-driven approach to inventory planning.
+
+Key outcomes included:
+
+* Developed improved attachment rate estimates using historical demand data.
+* Generated demand forecasts for components associated with a new product launch.
+* Identified opportunities to reduce overstocking and understocking risks.
+* Created a repeatable forecasting methodology that can be applied to future product launches.
+* Provided business recommendations to support inventory planning decisions.
+
+## Business Recommendations
+
+Based on our analysis, we recommended:
+
+* Using historical attachment rates instead of relying solely on initial assumptions.
+* Grouping similar components to improve forecast reliability.
+* Regularly updating attachment rates as new sales data becomes available.
+* Implementing a standardized forecasting process for future product launches.
+
+## Lessons Learned
+
+This project strengthened our understanding of:
+
+* Demand forecasting
+* Inventory planning
+* Data analysis
+* Business analytics
+* Forecasting methodologies
+* Translating data into business recommendations
+* Presenting findings to stakeholders
+
+
 ### Step 6: Compare Results
 
 We compared our forecasts against Horizon Hobby's original projections to identify opportunities to improve inventory planning.
