@@ -34,3 +34,46 @@ The objective was to improve inventory planning accuracy for Horizon Hobby's new
 
 Our team developed the forecasting methodology, analyzed historical demand patterns, and presented data-driven inventory planning recommendations.
 
+## Methodology
+
+Our team developed an attachment rate forecasting approach to estimate component demand for a new product launch.
+
+### Step 1: Analyze Historical Demand
+
+We analyzed historical booking data to understand the relationship between parent products and their associated components.
+
+Historical datasets included:
+
+* Booking History for Parent_v2.csv
+* Bookings History for Parts.csv
+* Historical Attachment Rate Projection.xlsx
+* Parent Item Forecast.xlsx
+* Part Item Forecast.xlsx
+
+### Step 2: Calculate Actual Attachment Rates
+
+We calculated historical attachment rates using the following formula:
+
+Actual Attachment Rate = Total Historical Part Demand ÷ Total Historical Parent Demand
+
+### Step 3: Group Similar Components
+
+Components were grouped into functional categories to identify common purchasing patterns.
+
+### Step 4: Calculate Improved Attachment Rates
+
+We calculated category-level attachment rates by averaging historical attachment rates among similar components.
+
+Category Improved Attach Rate = Average Actual Attach Rate of parts within the same functional category
+
+### Step 5: Forecast New Product Demand
+
+We estimated future component demand using:
+
+New Part Demand = Improved Attach Rate × New Parent Forecast
+
+### Step 6: Compare Results
+
+We compared our forecasts against Horizon Hobby's original projections to identify opportunities to improve inventory planning.
+
+
